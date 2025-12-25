@@ -1,0 +1,4 @@
+
+{ "name": "SpaceWave.Runtime", "includePlatforms": ["Editor","Android","WindowsEditor","OSXEditor","LinuxEditor"], "autoReferenced": true }
+
+

@@ -1,0 +1,19 @@
+
+
+{
+  "name": "Controls",
+  "maps": [
+    {
+      "name": "Gameplay",
+      "actions": [{ "name": "Press", "type": "Button", "expectedControlType": "Button" }],
+      "bindings": [
+        { "path": "<Touchscreen>/press", "action": "Press" },
+        { "path": "<Mouse>/leftButton", "action": "Press" },
+        { "path": "<Keyboard>/space", "action": "Press" }
+      ]
+    }
+  ],
+  "controlSchemes": []
+}
+
+

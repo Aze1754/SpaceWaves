@@ -1,0 +1,5 @@
+
+
+{ "name": "SpaceWave.Editor", "references": ["SpaceWave.Runtime"], "includePlatforms": ["Editor"], "autoReferenced": true }
+
+
